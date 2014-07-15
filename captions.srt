@@ -12,7 +12,7 @@ Soy el agente Petterson
 
 4
 00:00:53,240 --> 00:00:54,400
-y este es el agente Wallas
+y este es el agente Wallace
 
 5
 00:00:57,720 --> 00:00:59,200
@@ -108,7 +108,7 @@ en Berkeley
 
 28
 00:02:03,680 --> 00:02:04,940
-buen señuelo , idiota
+buena coartada , idiota
 
 29
 00:02:11,080 --> 00:02:17,800
