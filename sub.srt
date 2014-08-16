@@ -1,7 +1,356 @@
 1
-00:00:41,00 --> 00:00:41,90
+00:00:41,000 --> 00:00:41,900
 [Tosiendo]
 
 2
-00:00:48,00 --> 00:00:48,80
+00:00:48,060 --> 00:00:48,840
 Buenos días
+
+3
+00:00:51,280 --> 00:00:52,340
+Soy el agente Petterson
+
+4
+00:00:53,240 --> 00:00:54,400
+y este es el agente Wallas
+
+5
+00:00:57,720 --> 00:00:59,200
+si... es... un novato
+
+6
+00:00:59,440 --> 00:01:00,314
+pero ...ahm
+
+7
+00:01:00,488 --> 00:01:01,488
+esta aprendiendo...entoces
+
+8
+00:01:02,960 --> 00:01:03,960
+--REVISAR--
+
+9
+00:01:07,560 --> 00:01:08,560
+dime tu nombre
+
+10
+00:01:13,320 --> 00:01:14,420
+tu nombre real
+
+11
+00:01:15,000 --> 00:01:16,000
+para los registros
+
+12
+00:01:16,020 --> 00:01:16,857
+[Tosiendo]
+
+13
+00:01:17,200 --> 00:01:18,200
+Charles Drake
+
+14
+00:01:22,900 --> 00:01:23,900
+que...
+
+15
+00:01:23,940 --> 00:01:25,520
+que es lo que quieren de mi ? 
+
+16
+00:01:25,975 --> 00:01:26,975
+que es lo que queremos?
+
+17
+00:01:27,160 --> 00:01:28,220
+QUE ES LO QUE QUEREMOS!?
+
+18
+00:01:28,380 --> 00:01:30,560
+no te ves como alguien que roba mierda al gobierno no?
+
+19
+00:01:30,840 --> 00:01:31,400
+cierto?
+
+20
+00:01:31,700 --> 00:01:32,700
+ven aca
+
+21
+00:01:40,693 --> 00:01:41,693
+aun no
+
+22
+00:01:42,634 --> 00:01:43,634
+se paciente
+
+23
+00:01:46,720 --> 00:01:48,080
+ves a lo que me refiero
+
+24
+00:01:54,000 --> 00:01:55,220
+que haces para sobrevivir?
+
+25
+00:01:55,220 --> 00:01:55,720
+Charles
+
+26
+00:01:59,680 --> 00:02:00,880
+enseño matematica
+
+27
+00:02:02,020 --> 00:02:03,020
+en Berkeley
+
+28
+00:02:03,680 --> 00:02:04,940
+buen señuelo , idiota
+
+29
+00:02:11,080 --> 00:02:17,800
+Sust. : Un conjuto de pasos que son seguidas para la resolucion de problemas , especialmente hechas por computadoras
+
+30
+00:02:28,840 --> 00:02:29,840
+Hace un mes era un arma
+
+31
+00:02:32,420 --> 00:02:34,780
+muchas personas no tienen idea de lo que puede hacer un hacker
+
+32
+00:02:36,580 --> 00:02:37,780
+--REVISAR--
+
+33
+00:02:39,860 --> 00:02:41,140
+--REVISAR--
+
+34
+00:03:00,920 --> 00:03:01,920
+Cuando miro alrededor
+
+35
+00:03:02,600 --> 00:03:04,980
+no veo fronteras , muros o bloqueos
+
+36
+00:03:06,000 --> 00:03:07,120
+veo rompecabezas
+
+37
+00:03:07,900 --> 00:03:10,100
+juegos que me entretienen lo que me ayudan a hacer cosas mas grandes
+
+38
+00:03:32,580 --> 00:03:33,200
+cosas como ..
+
+39
+00:03:33,520 --> 00:03:36,520
+romper la seguridad de  la compañia de telefonos para reescribir el codigo de los servidores
+
+40
+00:03:37,280 --> 00:03:39,080
+y darme servicio ilimitado
+
+41
+00:04:43,180 --> 00:04:46,020
+intercambiar mis tarjetas SIM  pre-burned todos los dias a las 6 am
+
+42
+00:04:46,420 --> 00:04:48,000
+es un pequeño precio que tengo que pagar
+
+43
+00:05:13,280 --> 00:05:18,840
+no me importan cosas como la privacidad , o posicion social o estar acumulando cosas
+
+44
+00:05:19,100 --> 00:05:20,540
+no me importan las leyes ... --REVISAR--
+
+45
+00:05:22,180 --> 00:05:23,600
+solo busco una cosa
+
+46
+00:05:23,980 --> 00:05:25,700
+La informacion debe ser gratuita
+
+47
+00:05:26,400 --> 00:05:30,440
+y todo lo que puedan ser simples archivos codificados
+
+48
+00:05:30,440 --> 00:05:31,860
+y entendidos como informacion --REVISAR--
+
+49
+00:05:34,040 --> 00:05:37,300
+Le llaman la "Era de la Informacion" por una razon
+
+50
+00:05:39,600 --> 00:05:41,960
+las compañias y el gobierno parece que no lo entienden
+
+51
+00:05:41,960 --> 00:05:43,660
+por esto hay poderes en contra de ellos --REVISAR--
+
+52
+00:05:43,760 --> 00:05:44,480
+crees que hay reglas ?
+
+53
+00:05:45,780 --> 00:05:47,480
+tratas la computadora como si fuera algo como todo lo demas
+
+54
+00:05:48,080 --> 00:05:49,880
+puedo ver un hecho inmutable de la vida
+
+55
+00:05:50,057 --> 00:05:51,057
+y por eso ..
+
+56
+00:05:51,240 --> 00:05:54,560
+tu forma de ver el mundo , es anticuada
+
+57
+00:05:54,560 --> 00:05:56,340
+preparate para .. --REVISAR--
+
+58
+00:05:56,660 --> 00:05:58,860
+los geeks.. --REVISAR
+
+59
+00:05:59,080 --> 00:06:00,660
+--REVISAR--
+
+60
+00:06:02,600 --> 00:06:03,820
+para tu consideracion
+
+61
+00:06:04,120 --> 00:06:05,320
+-REVISAR-
+
+62
+00:06:05,880 --> 00:06:08,660
+--REVISAR--
+
+63
+00:06:09,600 --> 00:06:10,860
+-REVISAR-
+
+64
+00:06:26,020 --> 00:06:27,020
+Gracias por venir
+
+65
+00:06:31,760 --> 00:06:35,340
+creo que mi esposa me esta engañando
+
+66
+00:06:36,734 --> 00:06:38,734
+entonces.. --REVISAR--
+
+67
+00:06:40,820 --> 00:06:44,360
+--REVISAR--
+
+68
+00:06:46,019 --> 00:06:47,819
+quiero comprobarlo
+
+69
+00:06:49,300 --> 00:06:50,300
+prueba para que .. ?
+
+70
+00:06:52,180 --> 00:06:55,040
+solo llama y reconciliense
+
+71
+00:06:57,037 --> 00:06:58,677
+quiero probarme a mi mismo
+
+72
+00:07:02,554 --> 00:07:04,834
+--REVISAR--
+
+73
+00:07:11,020 --> 00:07:12,500
+que tipo de prueba...
+
+74
+00:07:15,320 --> 00:07:16,320
+quieres ? 
+
+75
+00:07:18,260 --> 00:07:21,900
+video o --REVISAR--
+
+76
+00:07:22,700 --> 00:07:24,280
+por que eso no lo que hago
+
+77
+00:07:24,280 --> 00:07:25,620
+no , no , mira a tu alrededor
+
+78
+00:07:25,638 --> 00:07:28,278
+si encuentras algo me lo envias
+
+79
+00:07:28,800 --> 00:07:29,800
+te pagare
+
+80
+00:07:31,900 --> 00:07:32,900
+ese es el trato
+
+81
+00:07:34,900 --> 00:07:35,900
+conoces mis honorarios
+
+82
+00:07:40,880 --> 00:07:45,120
+-REVISAR-
+
+83
+00:07:46,620 --> 00:07:48,620
+-REVISAR-
+
+84
+00:07:50,940 --> 00:07:52,900
+-REVISAR
+
+85
+00:07:52,900 --> 00:07:54,900
+-REVISAR-
+
+86
+00:07:55,620 --> 00:07:57,620
+entiendo la necesidad de la discrecion
+
+87
+00:08:00,000 --> 00:08:01,040
+Mr..
+
+88
+00:08:01,920 --> 00:08:03,920
+-REVISAR-
+
+89
+00:08:08,780 --> 00:08:10,780
+ 
+
